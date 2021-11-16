@@ -1,0 +1,10 @@
+C:\Users\Esra\source\repos\A3\A3\bin\Debug\A3.exe.config
+C:\Users\Esra\source\repos\A3\A3\bin\Debug\A3.exe
+C:\Users\Esra\source\repos\A3\A3\bin\Debug\A3.pdb
+C:\Users\Esra\source\repos\A3\A3\obj\Debug\A3.csproj.AssemblyReference.cache
+C:\Users\Esra\source\repos\A3\A3\obj\Debug\A3.Form1.resources
+C:\Users\Esra\source\repos\A3\A3\obj\Debug\A3.Properties.Resources.resources
+C:\Users\Esra\source\repos\A3\A3\obj\Debug\A3.csproj.GenerateResource.cache
+C:\Users\Esra\source\repos\A3\A3\obj\Debug\A3.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\A3\A3\obj\Debug\A3.exe
+C:\Users\Esra\source\repos\A3\A3\obj\Debug\A3.pdb
